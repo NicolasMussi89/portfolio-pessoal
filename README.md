@@ -21,34 +21,32 @@
 
 ## Descrição
 
-[Descriçoes É uma pagina incial com os botões de novidades e contatos](#descri%C3%A7%C3%A3o)
+É uma pagina incial com os botões de novidades e contatos
 
 ## Introdução
 
-[Este projeto é uma página de capa  usando Bootstrap v5.0, ideal para página inicial, com cabeçalho, seção principal e rodapé](#introdu%C3%A7%C3%A3o)
+Este projeto é uma página de capa  usando Bootstrap v5.0, ideal para página inicial, com cabeçalho, seção principal e rodapé
 
 ## Funcionalidades
 
-[* Cabeçalho com links de navegação.](#funcionalidades)
-
-[* Botão "Saber mais" na pagina principal.](#funcionalidades)
-
-[* Estilização usando CSS.](#funcionalidades)
-
-[* Layout do Bootstrap.](#funcionalidades)
+* Cabeçalho com links de navegação.
+* Botão "Saber mais" na pagina principal.
+* Estilização usando CSS.
+* Layout do Bootstrap.
 
 ### Tecnologias utilizadas
 
-[*HTML5](#tecnologias-utilizadas)
-
-[*CSS3](#tecnologias-utilizadas)
-
-[*Bootstrap v5.0](#tecnologias-utilizadas)
+* HTML5
+* CSS3
+* Github
+* Bootstrap v5.0
 
 ## Fontes cosultadas
 
-[https://getbootstrap.com/](#fontes-cosultadas)
+[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível
+
+Consulta com professor Leonardo Rocha 
 
 ## Autores
 
-[Nicolas, Miguel e Gabriel](#autores)
+Nicolas, Miguel e Gabriel
